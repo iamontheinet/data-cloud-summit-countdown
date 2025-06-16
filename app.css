@@ -39,6 +39,11 @@ a[href ^= "https://www.linkedin"]:hover {
   color: #115675;
 }
 
+a[href ^= "https://www.snowflake.com/en/summit/save-the-date/#form"] {
+  color: #ffffff;
+  text-decoration: none;
+}
+
 /* captions */
 div[data-testid = "stCaptionContainer"] {
   text-align: center;
